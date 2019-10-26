@@ -1,4 +1,4 @@
----
+Jeromonyo@gmail.com 
 items:
  - puppetlabs/puppet
  - chef/chef
@@ -16,7 +16,7 @@ items:
  - StackStorm/st2
  - openshift/origin
  - getsentry/sentry
- - deployphp/deployer
+ - deployphp/jhunie
  - kubernetes/kubernetes
  - netdata/netdata
  - cloud66-oss/habitus
@@ -27,6 +27,6 @@ items:
  - SeleniumHQ/selenium
  - opendiffy/diffy
  
-display_name: DevOps tools
+display_jhunie: DevOps tools
 ---
 These tools help you manage servers and deploy happier and more often with more confidence.
